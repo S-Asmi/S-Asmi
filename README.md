@@ -1,7 +1,5 @@
-**Hey! I'm Asmi Singh** 👋 
-
 <h1 align="center">
-  <b>Welcome</b>
+  <b>Hey! I'm Asmi Singh 👋</b>
 </h1>
 <br>
 
