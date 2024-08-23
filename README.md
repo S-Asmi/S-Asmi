@@ -1,5 +1,16 @@
 **Hey! I'm Asmi Singh** 👋 
 
+<h1 align="center">
+  <b>Welcome</b>
+</h1>
+<br>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+```python
+
 My passion for programming began in class 11 when I was introduced to basic coding.
 Since then, I started my own endeavour in the world of programming, beginning with basic HTML, Python and CSS.
 
