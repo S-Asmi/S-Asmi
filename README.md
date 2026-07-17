@@ -1,5 +1,5 @@
-<h1 align="center">
-  <b>Hey! I'm Asmi Singh 👋</b>
+<h1 align="center" />
+  <b><img width="130" alt="c367c27660dcfb7acca343bcd6f8282c" src="https://github.com/user-attachments/assets/d17ae9e0-1792-4fdc-aed3-797e2e3bfd4d" style="vertical-align: middle; margin-left: 8px;"/>                                                                        Hey! I'm Asmi Singh 👋 </b>
 </h1>
 <br>
 
